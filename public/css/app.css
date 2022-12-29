@@ -940,9 +940,6 @@ select {
 .border-r-0 {
   border-right-width: 0px;
 }
-.border-b {
-  border-bottom-width: 1px;
-}
 .border-dashed {
   border-style: dashed;
 }

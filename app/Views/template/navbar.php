@@ -1,5 +1,5 @@
 
-<nav class="bg-white px-2 sm:px-4 py-2.5 dark:bg-gray-900  w-full  top-0 left-0 border-b border-gray-200 dark:border-gray-600 mb-3">
+<nav class="bg-white px-2 sm:px-4 py-2.5 dark:bg-gray-900  w-full  top-0 left-0  dark:border-gray-600 mb-3">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
   <a href="/" class="flex items-center">
       <span class="self-center text-xl font-bold whitespace-nowrap dark:text-white text-blue-700">Hallo deck</span>
